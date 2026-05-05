@@ -25,7 +25,7 @@ public class Spieler {
 Attribute = Daten eines Objekts
 
 ---
-## 🔗 Verbindungen
+## Verbindungen
 
 - [[Klassen]]
 - [[Objekte]]
