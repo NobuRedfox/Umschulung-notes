@@ -1,5 +1,5 @@
 >[!Important]
-Ein künstliches neuronales Netz besteht aus **Neuronen (Knoten)**, die in **Schichten** organisiert sind und durch **Gewichte** miteinander verbunden sind.
+>Ein künstliches neuronales Netz besteht aus **Neuronen (Knoten)**, die in **Schichten** organisiert sind und durch **Gewichte** miteinander verbunden sind.
 
 ## Die 4 wichtigsten Bestandteile
 ### 1. Neuronen (Nodes)

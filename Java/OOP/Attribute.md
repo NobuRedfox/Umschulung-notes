@@ -1,11 +1,12 @@
 ##  Erklärung
+
 Attribute sind die **Eigenschaften eines Objekts**.
 
 -> Sie speichern Daten.
 
 ---
 
-## 🎮 Beispiel
+## Beispiel
 
 ```java
 public class Spieler {
@@ -20,7 +21,7 @@ public class Spieler {
 - `name` und `leben` sind **Attribute**
 
 ---
-## 💡 Merksatz
+## Merksatz
 
 Attribute = Daten eines Objekts
 

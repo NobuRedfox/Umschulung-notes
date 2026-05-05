@@ -33,10 +33,10 @@ Bedeutung:
 
 ##  Unterschied einfach erklärt
 
-|Funktion|Verhalten|Einsatz|
-|---|---|---|
-|ReLU|schneidet alles < 0 ab|Standard in Hidden Layers|
-|Sigmoid|macht Werte zwischen 0 und 1|Output / Wahrscheinlichkeit|
+| Funktion | Verhalten                    | Einsatz                     |
+| -------- | ---------------------------- | --------------------------- |
+| ReLU     | schneidet alles < 0 ab       | Standard in Hidden Layers   |
+| Sigmoid  | macht Werte zwischen 0 und 1 | Output / Wahrscheinlichkeit |
 ### Bild im Kopf
 - **ReLu** -> alles Negative ignorieren
 - **Sigmoid** -> in Wahrscheinlichkeit umwandeln

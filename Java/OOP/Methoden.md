@@ -32,12 +32,12 @@ s1.heilen();
  führt die Methode aus
 
 ---
-## 💡 Merksatz
+## Merksatz
 
-👉 Methoden = Verhalten
+--> Methoden = Verhalten
 
 ---
-## ⚠️ Fehler
+## Fehler
 
 - ❌ Methode nicht aufrufen
 - ❌ denken, dass sie automatisch läuft

@@ -1,4 +1,3 @@
-## Epoch & Batch
 
 > [!important]
 >  - Eine Epoch ist ein kompletter Durchlauf durch alle Trainingsdaten.

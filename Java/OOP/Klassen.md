@@ -1,4 +1,5 @@
 ## Erklärung
+
 Eine Klasse ist ein **Bauplan** für Objekte.
 
 -> Sie beschreibt:
@@ -7,7 +8,7 @@ Eine Klasse ist ein **Bauplan** für Objekte.
 
 ---
 
-## 🎮 Beispiel (Spiel)
+## Beispiel (Spiel)
 
 Stell dir ein Spiel vor:
 
@@ -43,13 +44,13 @@ Spieler s1 = new Spieler();
 ```
 
 ---
-## 💡 Merksatz
+## Merksatz
 
 - Klasse = Bauplan  
 - Objekt = echtes Ding
 
 ---
-## ⚠️ Häufige Anfängerfehler
+## Häufige Anfängerfehler
 
 - ❌ Klasse = Objekt verwechseln
 - ❌ denken, dass die Klasse schon „läuft“

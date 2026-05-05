@@ -1,6 +1,6 @@
-Ein Token ist die kleinste Einheit, mit der ein Sprachmodell Text verarbeitet.
-
-Ein Token ist nicht gleich ein Wort. Wörter können in mehrere Tokens zerlegt werden.
+> [!important]
+> Ein Token ist die kleinste Einheit, mit der ein Sprachmodell Text verarbeitet.
+> Ein Token ist nicht gleich ein Wort. Wörter können in mehrere Tokens zerlegt werden.
 
 ### Beispiel
 ```

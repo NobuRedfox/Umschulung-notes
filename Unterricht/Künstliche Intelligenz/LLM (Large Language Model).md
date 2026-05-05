@@ -4,7 +4,7 @@
 
 ## Ablauf
 
-1. Text → [[Tokens]]
+1. Text → [[Token]]
 2. Tokens → [[Embeddings]]
 3. Verarbeitung im Netzwerk
 4. Vorhersage des nächsten Wortes

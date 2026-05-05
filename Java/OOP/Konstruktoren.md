@@ -1,9 +1,9 @@
-## 🧠 Erklärung  
+## Erklärung  
 Ein Konstruktor wird benutzt, um ein Objekt **direkt beim Erstellen zu setzen**  
   
 ---  
   
-## 🎮 Beispiel  
+## Beispiel  
   
 ```java  
 public class Spieler {  
@@ -26,12 +26,12 @@ Spieler s1 = new Spieler("Nobu", 100);
 Werte werden direkt gesetzt
 
 ---
-## 💡 Merksatz
+## Merksatz
 
-👉 Konstruktor = Startwerte setzen
+--> Konstruktor = Startwerte setzen
 
 ---
-## ⚠️ Fehler
+## Fehler
 
 - ❌ Name nicht gleich Klassenname
 - ❌ `void` davor schreiben

@@ -28,7 +28,7 @@ s1.leben = 100;
 -> Jetzt hat dein Objekt echte Daten
 
 ---
-## ⚠️ Häufige Fehler
+## Häufige Fehler
 
 - ❌ Objekt ohne `new` erstellen
 - ❌ Klasse und Objekt verwechseln
