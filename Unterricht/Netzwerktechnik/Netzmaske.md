@@ -210,3 +210,9 @@ Dann wird normalerweise ein Router benötigt.
 > Netzmasken immer binär denken.
 >
 > Dann versteht man CIDR und Subnetting viel einfacher.
+
+---
+## Verlinkungen
+
+- [[CIDR]]
+- [[IPv4]]

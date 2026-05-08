@@ -159,3 +159,8 @@ Adressen:
 
 > [!important]
 > Die Broadcastadresse ist immer die letzte Adresse eines Netzwerks.
+
+---
+
+## Verlinkungen
+- [[IPv4]]
