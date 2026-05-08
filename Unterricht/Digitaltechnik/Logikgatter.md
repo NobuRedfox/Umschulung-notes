@@ -9,7 +9,7 @@ Sie arbeiten mit:
 genau wie im Binärsystem
 
 ---
-
+![[NOT.png]]
 ##  NOT (NICHT)
 
 ```text
@@ -19,7 +19,7 @@ Eingang → Ausgang
 ```
 
 ---
-
+![[AND.png]]
 ## AND (UND)
 
 ```
@@ -33,7 +33,7 @@ A B → Ausgang
 nur TRUE wenn beide 1 sind
 
 ---
-
+![[OR.png]]
 ## OR (ODER)
 
 ```
@@ -47,7 +47,7 @@ A B → Ausgang
 TRUE wenn mindestens eins 1 ist
 
 ---
-
+![[XOR.png]]
 ## ❌ XOR (exklusiv ODER)
 
 ```

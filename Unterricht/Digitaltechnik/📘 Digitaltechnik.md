@@ -2,7 +2,8 @@
 - [[Zahlensysteme]]
 - [[Bit und Byte]]
 - [[Elektrotechnik Grundlagen]]
-- [[Schaltungen]]
+- [[Logikgatter]]
+- [[Unterricht/Digitaltechnik/Übungsaufgaben]]
 
 ---
 
@@ -37,4 +38,9 @@ Siehe: [[Zahlensysteme]]
 ---
 
 ### Schaltungen
-Siehe: [[Schaltungen]]
+Siehe: [[Logikgatter]]
+
+---
+
+Übungsaufgaben
+Siehe: [[Unterricht/Digitaltechnik/Übungsaufgaben]]
