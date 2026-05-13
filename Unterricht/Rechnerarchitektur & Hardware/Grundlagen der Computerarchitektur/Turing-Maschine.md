@@ -73,3 +73,30 @@ Mit ihr untersucht man:
 > [!important]
 > ## Merksatz
 > Die Turing-Maschine ist das theoretische Grundmodell moderner Computer.
+
+---
+# Fragen
+
+- Woraus besteht eine Turing-Maschine?  
+> [!spoiler]- Lösung anzeigen  
+> Eine Turing-Maschine besteht aus:  
+> - einem Speicherband  
+> - einem Schreib-/Lesekopf  
+> - einer Zustandsmaschine  
+> - festen Verarbeitungsregeln
+
+- Warum ist die Turing-Maschine wichtig für die Informatik?  
+> [!spoiler]- Lösung anzeigen  
+> Die Turing-Maschine bildet die theoretische Grundlage moderner Computer.  
+>  
+> Mit ihr untersucht man:  
+> - Algorithmen  
+> - Berechenbarkeit  
+> - Problemlösungen
+
+- Welche Aufgaben führt der Schreib-/Lesekopf aus?  
+> [!spoiler]- Lösung anzeigen  
+> Der Schreib-/Lesekopf:  
+> - liest Symbole vom Band  
+> - schreibt neue Symbole  
+> - bewegt sich nach links oder rechts

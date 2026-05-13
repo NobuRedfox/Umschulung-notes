@@ -84,3 +84,41 @@ und wird in den meisten PCs standardmäßig verwendet.
 > [!important]
 > ## Merksatz
 > Luftkühlung nutzt Lüfter und Luftstrom, um Wärme aus dem Computer abzuführen.
+
+---
+
+# Fragen
+
+- Wie funktioniert Luftkühlung?
+
+> [!spoiler]- Lösung anzeigen
+> Die Wärme wird:
+> 1. von der Hardware aufgenommen
+> 2. an den Kühlkörper übertragen
+> 3. durch Lüfter mit Luft abgeführt
+
+---
+
+- Welche Bestandteile besitzt eine Luftkühlung?
+
+> [!spoiler]- Lösung anzeigen
+> Eine Luftkühlung besteht meist aus:
+> - Lüfter
+> - Kühlkörper
+> - Heatpipes
+> - [[Wärmeleitpaste]]
+
+---
+
+- Was sind Vor- und Nachteile?
+
+> [!spoiler]- Lösung anzeigen
+> Vorteile:
+> - günstig
+> - einfach einzubauen
+> - wartungsarm
+>
+> Nachteile:
+> - kann laut werden
+> - begrenzte Kühlleistung
+> - abhängig vom Luftstrom im Gehäuse

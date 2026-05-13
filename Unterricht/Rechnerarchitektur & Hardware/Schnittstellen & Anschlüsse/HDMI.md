@@ -90,3 +90,38 @@ HDMI ist dagegen besonders verbreitet bei Fernsehern und Konsolen.
 > [!important]
 > ## Merksatz
 > HDMI überträgt Bild und Ton digital über ein einziges Kabel.
+
+---
+
+# Fragen
+
+- Welche Daten überträgt HDMI?
+
+> [!spoiler]- Lösung anzeigen
+> HDMI überträgt:
+> - Bilddaten
+> - Audiodaten
+>
+> digital über ein einziges Kabel.
+
+---
+
+- Für welche Geräte wird HDMI verwendet?
+
+> [!spoiler]- Lösung anzeigen
+> HDMI wird häufig verwendet bei:
+> - Monitoren
+> - Fernsehern
+> - Konsolen
+> - Beamern
+> - Grafikkarten
+
+---
+
+- Was ist ein Vorteil von HDMI?
+
+> [!spoiler]- Lösung anzeigen
+> Ein Vorteil von HDMI ist, dass:
+> - Bild und Ton gleichzeitig übertragen werden
+> - nur ein Kabel benötigt wird
+> - eine hohe Bild- und Tonqualität möglich ist

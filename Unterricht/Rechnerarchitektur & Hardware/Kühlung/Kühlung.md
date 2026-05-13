@@ -90,3 +90,39 @@ Zwischen Kühler und Chip befindet sich häufig
 > [!important]
 > ## Merksatz
 > Kühlung verhindert Überhitzung und schützt die Hardware vor Schäden.
+
+---
+
+# Fragen
+
+- Warum benötigen Computer Kühlung?
+
+> [!spoiler]- Lösung anzeigen
+> Computer erzeugen während des Betriebs Wärme.
+>
+> Die Kühlung verhindert, dass Hardware wie:
+> - [[CPU]]
+> - [[GPU]]
+>
+> überhitzt oder beschädigt wird.
+
+---
+
+- Welche Probleme entstehen bei Überhitzung?
+
+> [!spoiler]- Lösung anzeigen
+> Überhitzung kann verursachen:
+> - Leistungsabfall
+> - Abstürze
+> - Instabilität
+> - Schäden an der Hardware
+
+---
+
+- Welche Arten der Kühlung gibt es?
+
+> [!spoiler]- Lösung anzeigen
+> Häufige Arten der Kühlung sind:
+> - [[Luftkühlung]]
+> - [[Wasserkühlung]]
+> - [[Passive Kühlung]]

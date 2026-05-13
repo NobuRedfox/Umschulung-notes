@@ -89,3 +89,36 @@ da die Befehle einfacher aufgebaut sind.
 > [!important]
 > ## Merksatz
 > RISC nutzt wenige einfache Befehle für eine schnelle und effiziente Verarbeitung.
+
+---
+
+# Fragen
+
+- Wofür steht RISC?
+
+> [!spoiler]- Lösung anzeigen
+> RISC steht für:
+>
+> Reduced Instruction Set Computer
+
+---
+
+- Warum gelten RISC-Prozessoren als effizient?
+
+> [!spoiler]- Lösung anzeigen
+> RISC-Prozessoren nutzen:
+> - wenige einfache Befehle
+> - eine einfache Prozessorstruktur
+>
+> Dadurch können Befehle schnell und energiesparend ausgeführt werden.
+
+---
+
+- Welche Geräte verwenden häufig RISC?
+
+> [!spoiler]- Lösung anzeigen
+> RISC wird häufig verwendet bei:
+> - Smartphones
+> - Tablets
+> - Mikrocontrollern
+> - ARM-Prozessoren

@@ -1,7 +1,7 @@
-
-## Erklärung
-Flags sind Optionen für Befehle.
-Sie bestimmen, **wie** ein Befehl ausgeführt wird.
+>[!info]
+> ## Erklärung
+> Flags sind Optionen für Befehle.
+> Sie bestimmen, **wie** ein Befehl ausgeführt wird.
 
 ---
 
@@ -21,7 +21,7 @@ Sie bestimmen, **wie** ein Befehl ausgeführt wird.
 
 ---
 
-## 📁 ls (list)
+##  ls (list)
 
 - -l → long (Details anzeigen)
 - -a → all (versteckte Dateien anzeigen)
@@ -29,30 +29,30 @@ Sie bestimmen, **wie** ein Befehl ausgeführt wird.
 - -t → time (nach Datum sortieren)
 
 ---
-## 🗑️ rm (remove)
+##  rm (remove)
 
 - -r → Ordner löschen
 - -f → ohne Nachfrage löschen
 
 ---
-## 📦 cp (copy)
+##  cp (copy)
 
 - -r → Ordner kopieren
 - -v → zeigt Kopiervorgang
 
 ---
-## 📁 mv (move)
+## mv (move)
 
 - -v → zeigt Verschieben an
 
 ---
-## 🔍 grep (search)
+## grep (search)
 
 - -i → ignore case
 - -r → rekursiv suchen
 
 ---
-## 🔧 git
+## git
 
 - -m → message
 - -a → alle Änderungen

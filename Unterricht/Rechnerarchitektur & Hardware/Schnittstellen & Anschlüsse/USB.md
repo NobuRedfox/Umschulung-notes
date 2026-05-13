@@ -102,3 +102,35 @@ In älteren Systemen erfolgte dies häufig über die
 > [!important]
 > ## Merksatz
 > USB verbindet externe Geräte einfach und universell mit dem Computer.
+
+---
+
+# Fragen
+
+- Wofür wird USB verwendet?
+
+> [!spoiler]- Lösung anzeigen
+> USB wird verwendet zum Anschluss von:
+> - Mäusen
+> - Tastaturen
+> - USB-Sticks
+> - Smartphones
+> - Druckern
+> - externen Festplatten
+
+---
+
+- Was bedeutet Plug-and-Play?
+
+> [!spoiler]- Lösung anzeigen
+> Plug-and-Play bedeutet, dass Geräte nach dem Anschließen automatisch erkannt und verwendet werden können.
+
+---
+
+- Welche USB-Steckertypen gibt es?
+
+> [!spoiler]- Lösung anzeigen
+> Häufige USB-Steckertypen sind:
+> - USB-A
+> - USB-C
+> - Micro-USB

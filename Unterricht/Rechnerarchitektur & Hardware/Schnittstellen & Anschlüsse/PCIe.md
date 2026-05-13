@@ -102,3 +102,48 @@ Im Vergleich zu [[SATA]]:
 > [!important]
 > ## Merksatz
 > PCIe verbindet leistungsstarke Hardware mit hoher Geschwindigkeit mit dem Computer.
+
+---
+
+# Fragen
+
+- Wofür wird PCIe verwendet?
+
+> [!spoiler]- Lösung anzeigen
+> PCIe wird verwendet zum Anschluss von:
+> - Grafikkarten
+> - NVMe-[[SSD]]s
+> - Netzwerkkarten
+> - Erweiterungskarten
+
+---
+
+- Was bedeuten PCIe-Lanes?
+
+> [!spoiler]- Lösung anzeigen
+> PCIe-Lanes sind Datenleitungen für die Übertragung von Informationen.
+>
+> Mehr Lanes bedeuten:
+> - höhere Geschwindigkeit
+> - mehr Datenübertragung gleichzeitig
+>
+> Beispiele:
+> - x1
+> - x4
+> - x8
+> - x16
+
+---
+
+- Warum eignet sich PCIe für leistungsstarke Hardware?
+
+> [!spoiler]- Lösung anzeigen
+> PCIe besitzt:
+> - sehr hohe Datenübertragungsraten
+> - geringe Verzögerungen
+> - mehrere parallele Datenleitungen
+>
+> Dadurch eignet es sich besonders gut für leistungsstarke Hardware wie:
+> - [[GPU]]s
+> - NVMe-[[SSD]]s
+```

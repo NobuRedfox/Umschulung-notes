@@ -18,7 +18,7 @@
 
 ## 2. Sigmoid
 
-![[sigmoid.svg]]
+![[sigmoid.svg|600]]
 Bedeutung:
 
 - wandelt alles in einen Wert zwischen **0 und 1** um

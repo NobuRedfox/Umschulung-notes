@@ -8,7 +8,8 @@
 ## Definition
 
 Der Fetch-Execute-Cycle beschreibt den Ablauf, mit dem eine
-[[CPU]] Befehle verarbeitet.
+[[CPU]]
+Befehle verarbeitet.
 
 Die CPU:
 1. holt einen Befehl
@@ -91,3 +92,36 @@ entstehen.
 > [!important]
 > ## Merksatz
 > Holen → Entschlüsseln → Ausführen → Speichern
+
+---
+
+# Fragen
+
+- Welche vier Schritte gehören zum Fetch-Execute-Cycle?
+
+> [!spoiler]- Lösung anzeigen
+> Die vier Schritte sind:
+> 1. Fetch
+> 2. Decode
+> 3. Execute
+> 4. Store
+
+---
+
+- Was passiert während der Decode-Phase?
+
+> [!spoiler]- Lösung anzeigen
+> Während der Decode-Phase entschlüsselt die CPU den Befehl.
+>
+> Sie erkennt:
+> - welche Operation ausgeführt werden soll
+> - welche Daten benötigt werden
+
+---
+
+- Warum läuft dieser Zyklus dauerhaft?
+
+> [!spoiler]- Lösung anzeigen
+> Der Zyklus läuft dauerhaft, weil die CPU ständig neue Befehle ausführt.
+>
+> Ohne den Fetch-Execute-Cycle könnten Programme nicht verarbeitet werden.

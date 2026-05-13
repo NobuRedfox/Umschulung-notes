@@ -96,3 +96,39 @@ PCIe eignet sich besser für moderne Hochleistungshardware wie NVMe-SSDs.
 > [!important]
 > ## Merksatz
 > SATA verbindet Massenspeicher wie HDDs und SSDs mit dem Computer.
+
+---
+
+# Fragen
+
+- Wofür wird SATA verwendet?
+
+> [!spoiler]- Lösung anzeigen
+> SATA wird verwendet zum Anschluss von:
+> - [[HDD]]s
+> - [[SSD]]s
+> - Laufwerken
+>
+> an das Mainboard.
+
+---
+
+- Warum ist SATA langsamer als PCIe?
+
+> [!spoiler]- Lösung anzeigen
+> [[SATA]]
+> besitzt eine geringere Datenübertragungsrate als
+> [[PCIe]].
+>
+> PCIe wurde speziell für leistungsstarke Hardware entwickelt und kann deutlich mehr Daten gleichzeitig übertragen.
+
+---
+
+- Welche Geräte nutzen SATA?
+
+> [!spoiler]- Lösung anzeigen
+> SATA wird häufig verwendet bei:
+> - [[HDD]]
+> - SATA-[[SSD]]
+> - DVD-Laufwerken
+> - Blu-ray-Laufwerken

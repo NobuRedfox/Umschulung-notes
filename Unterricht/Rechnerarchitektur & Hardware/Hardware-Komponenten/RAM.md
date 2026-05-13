@@ -31,7 +31,13 @@ Der RAM:
 - Inhalte gehen beim Ausschalten verloren
 
 ---
+## Wichtige Kenngrößen von RAM
 
+- Speicherkapazität (8, 16, 32 GB)
+- Taktfrequenz (Geschwindigkeit des RAMs, MHz, MTs)
+- Datenrate (DDR = Double Date Rate)
+
+---
 ## Funktionsweise
 
 Die

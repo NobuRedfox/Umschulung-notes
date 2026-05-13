@@ -85,7 +85,7 @@ Im Gegensatz zur [[HDD]]:
 ## Arten von SSDs
 
 ### SATA-SSD
-- nutzt SATA-Anschluss
+- nutzt [[SATA]]
 - langsamer als NVMe
 
 ### NVMe-SSD
@@ -107,3 +107,36 @@ Im Gegensatz zur [[HDD]]:
 > [!important]
 > ## Merksatz
 > Eine SSD speichert Daten elektronisch und arbeitet deutlich schneller als eine HDD.
+
+---
+
+# Fragen
+
+- Warum arbeitet eine SSD schneller als eine HDD?
+
+> [!spoiler]- Lösung anzeigen
+> Eine SSD besitzt keine beweglichen Teile.
+>
+> Sie arbeitet vollständig elektronisch und kann dadurch schneller auf Daten zugreifen als eine [[HDD]].
+
+---
+
+- Welche Arten von SSDs gibt es?
+
+> [!spoiler]- Lösung anzeigen
+> Häufige Arten von SSDs sind:
+> - SATA-SSD
+> - NVMe-SSD
+
+---
+
+- Was ist der Unterschied zwischen SATA-SSD und NVMe-SSD?
+
+> [!spoiler]- Lösung anzeigen
+> Eine SATA-SSD nutzt die
+> [[SATA]]
+> -Schnittstelle und ist langsamer.
+>
+> Eine NVMe-SSD nutzt
+> [[PCIe]]
+> und erreicht deutlich höhere Geschwindigkeiten.

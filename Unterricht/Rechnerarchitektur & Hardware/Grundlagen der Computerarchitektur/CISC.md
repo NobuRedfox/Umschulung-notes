@@ -80,3 +80,36 @@ RISC verwendet dagegen wenige einfache Befehle.
 > [!important]
 > ## Merksatz
 > CISC nutzt viele komplexe Befehle, die viel Arbeit auf einmal erledigen können.
+
+---
+
+# Fragen
+
+- Wofür steht CISC?
+
+> [!spoiler]- Lösung anzeigen
+> CISC steht für:
+>
+> Complex Instruction Set Computer
+
+---
+
+- Welche Eigenschaften besitzt CISC?
+
+> [!spoiler]- Lösung anzeigen
+> CISC besitzt:
+> - viele komplexe Befehle
+> - umfangreiche Befehlssätze
+> - unterschiedlich lange Befehle
+> - weniger notwendigen Assembler-Code
+
+---
+
+- Was ist der Unterschied zu RISC?
+
+> [!spoiler]- Lösung anzeigen
+> [[CISC]]
+> verwendet viele komplexe Befehle.
+>
+> [[RISC]]
+> nutzt dagegen wenige einfache Befehle, die schneller ausgeführt werden können.

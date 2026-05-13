@@ -1,49 +1,140 @@
-##  Erklärung
-Methoden sind **Funktionen innerhalb einer Klasse**.
 
--> Sie bestimmen, was ein Objekt **tun kann**
+>[!info]
+>## Erklärung
+>
+>Methoden sind Funktionen innerhalb einer Klasse.
+>
+>Sie bestimmen, was ein Objekt tun kann.
 
 ---
 
-## Beispiel
+# Definition
+
+Methoden führen Aktionen oder Berechnungen aus.
+
+Sie gehören zu einer Klasse und können auf Attribute zugreifen.
+
+---
+
+# Beispiel
 
 ```java
 public class Spieler {
+
     String name;
     int leben;
 
-    void heilen() {
-        leben = leben + 10;
+    public void anzeigen() {
+        System.out.println(name);
+        System.out.println(leben);
     }
 }
 ```
 
-#### Erklärung Code
-- `void heilen()` → Methode
-- erhöht Leben
+---
+
+# Erklärung Code
+
+- `public void anzeigen()`
+  → Methode namens `anzeigen`
+
+- `void`
+  → die Methode gibt keinen Wert zurück
+
+- `System.out.println(...)`
+  → gibt Werte auf der Konsole aus
+
+Die Methode greift auf:
+- `name`
+- `leben`
+
+zu.
 
 ---
-##  Nutzung
+
+# Methode aufrufen
 
 ```java
-s1.heilen();
+Spieler s1 = new Spieler();
+
+s1.name = "Max";
+s1.leben = 100;
+
+s1.anzeigen();
 ```
 
- führt die Methode aus
+Die Methode wird mit:
+```java
+s1.anzeigen();
+```
+
+aufgerufen.
 
 ---
-## Merksatz
 
---> Methoden = Verhalten
+# Rückgabewerte
+
+Methoden können Werte zurückgeben.
+
+Beispiel:
+
+```java
+public int verdoppeln(int zahl) {
+    return zahl * 2;
+}
+```
+
+Hier wird ein `int` zurückgegeben.
 
 ---
-## Fehler
+
+# Parameter
+
+Methoden können Werte entgegennehmen.
+
+Beispiel:
+
+```java
+public void schaden(int dmg) {
+    leben = leben - dmg;
+}
+```
+
+`dmg` ist ein Parameter.
+
+---
+
+# Merksatz
+
+- Attribute = Eigenschaften eines Objekts
+- Methoden = Aktionen eines Objekts
+
+---
+
+# Häufige Anfängerfehler
 
 - ❌ Methode nicht aufrufen
-- ❌ denken, dass sie automatisch läuft
+- ❌ `()` vergessen
+- ❌ Methoden und Konstruktoren verwechseln
+- ❌ falschen Rückgabetyp verwenden
 
 ---
-## 🔗 Verbindungen
 
-- [[Klassen]]
+# Praxisbezug
+
+Methoden nutzt man z. B. für:
+- bewegen
+- angreifen
+- heilen
+- speichern
+- berechnen
+
+---
+
+# 🔗 Verbindungen
+
+- [[Klasse]]
 - [[Objekte]]
+- [[Attribute]]
+- [[Konstruktoren]]
+- [[OOP]]

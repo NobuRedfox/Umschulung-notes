@@ -81,3 +81,35 @@ werden keine Lüfter verwendet.
 > [!important]
 > ## Merksatz
 > Passive Kühlung funktioniert ohne Lüfter und arbeitet dadurch lautlos.
+
+---
+
+# Fragen
+
+- Warum arbeitet passive Kühlung lautlos?
+
+> [!spoiler]- Lösung anzeigen
+> Passive Kühlung besitzt keine Lüfter oder beweglichen Teile.
+>
+> Dadurch entstehen keine Lüftergeräusche.
+
+---
+
+- Für welche Geräte eignet sich passive Kühlung?
+
+> [!spoiler]- Lösung anzeigen
+> Passive Kühlung eignet sich besonders für:
+> - kleine PCs
+> - Router
+> - Embedded Systems
+> - energieeffiziente Hardware
+
+---
+
+- Welche Nachteile besitzt sie?
+
+> [!spoiler]- Lösung anzeigen
+> Nachteile sind:
+> - geringere Kühlleistung
+> - nicht geeignet für sehr leistungsstarke Hardware
+> - abhängig von guter Luftzirkulation

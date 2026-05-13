@@ -96,3 +96,39 @@ Ohne Schnittstellen könnten:
 > [!important]
 > ## Merksatz
 > Schnittstellen verbinden Hardware-Komponenten und ermöglichen den Datenaustausch.
+
+---
+
+# Fragen
+
+- Was ist eine Schnittstelle?
+
+> [!spoiler]- Lösung anzeigen
+> Eine Schnittstelle ermöglicht die Kommunikation und Datenübertragung zwischen Geräten und Hardware-Komponenten.
+
+---
+
+- Was ist der Unterschied zwischen internen und externen Schnittstellen?
+
+> [!spoiler]- Lösung anzeigen
+> Interne Schnittstellen verbinden Hardware innerhalb des Computers.
+>
+> Beispiele:
+> - [[PCIe]]
+> - [[SATA]]
+>
+> Externe Schnittstellen verbinden externe Geräte mit dem Computer.
+>
+> Beispiele:
+> - [[HDMI]]
+> - USB
+
+---
+
+- Warum sind Schnittstellen wichtig?
+
+> [!spoiler]- Lösung anzeigen
+> Ohne Schnittstellen könnten:
+> - Geräte nicht verbunden werden
+> - Daten nicht übertragen werden
+> - Hardware-Komponenten nicht miteinander kommunizieren

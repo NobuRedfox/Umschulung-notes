@@ -10,13 +10,24 @@ Ein Spieler in einem Spiel kann ein Objekt sein.
 ---
 
 ## Themen
-- [[Klassen]]
+- [[OOP]]
+- [[Klasse]]
 - [[Objekte]]
 - [[Attribute]]
 - [[Methoden]]
 - [[Konstruktoren]]
-- [[Getter und Setter]]
 - [[Vererbung]]
 
 ---
 
+## noch nicht gelernt
+
+- [[Kapselung]]
+- [[Polymorphie]]
+- [[Abstraktion]]
+- [[Interfaces]]
+- [[Getter & Setter]]
+- [[static]]
+- [[final]]
+- [[this]]
+- [[super]]

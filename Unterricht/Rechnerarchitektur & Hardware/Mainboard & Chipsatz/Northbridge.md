@@ -1,3 +1,4 @@
+# Northbridge
 
 > [!info]
 > ## Bedeutung
@@ -68,3 +69,30 @@ Dadurch werden:
 > [!important]
 > ## Merksatz
 > Die Northbridge verbindet die CPU mit schnellen Komponenten wie RAM und GPU.
+
+---
+
+# Fragen
+
+- Welche Komponenten verbindet die Northbridge?
+
+> [!spoiler]- Lösung anzeigen
+> Die Northbridge verbindet hauptsächlich:
+> - [[CPU]]
+> - [[RAM]]
+> - [[GPU]]
+
+---
+
+- Warum war die Northbridge wichtig?
+
+> [!spoiler]- Lösung anzeigen
+> Die Northbridge war wichtig, weil sie schnelle Datenübertragungen zwischen wichtigen Hardware-Komponenten ermöglicht hat.
+
+---
+
+- Wo befindet sich ihre Funktion heute oft?
+
+> [!spoiler]- Lösung anzeigen
+> Die Funktionen der Northbridge befinden sich heute häufig direkt in der
+> [[CPU]].

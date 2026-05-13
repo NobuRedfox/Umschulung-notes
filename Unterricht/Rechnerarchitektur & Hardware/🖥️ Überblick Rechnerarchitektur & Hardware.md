@@ -1,4 +1,3 @@
-# Rechnerarchitektur & Hardware
 
 ### Grundlagen der Computerarchitektur
 - [[Turing-Maschine]]
@@ -13,16 +12,21 @@
 ### Mainboard & Chipsatz
 - [[Northbridge]]
 - [[Southbridge]]
+- [[BIOS & UEFI]]
+- [[Bootloader]]
+- [[Mainboard]]
+- [[TPM]]
+- [[Secure Boot]]
 
 ### Hardware-Komponenten
 - [[CPU]]
 - [[RAM]]
 - [[GPU]]
-- [[Dedizierte Grafikkarte]]
 - [[HDD]]
 - [[SSD]]
 - [[NIC]]
-- [[MAC-Adresse]]
+- [[Netzteil]]
+
 
 ### Schnittstellen & Anschlüsse
 - [[Schnittstellen]]
@@ -30,6 +34,7 @@
 - [[SATA]]
 - [[PCIe]]
 - [[HDMI]]
+- [[MAC-Adresse]]
 
 ### Kühlung
 - [[Kühlung]]
@@ -37,3 +42,6 @@
 - [[Wasserkühlung]]
 - [[Passive Kühlung]]
 - [[Wärmeleitpaste]]
+
+### Übungsaufgaben Hardware
+- [[Übungsaufgaben Hardware]]

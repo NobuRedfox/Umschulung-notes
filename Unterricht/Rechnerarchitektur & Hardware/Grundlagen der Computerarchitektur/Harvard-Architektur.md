@@ -84,3 +84,38 @@ Die Harvard-Architektur wird häufig verwendet bei:
 > [!important]
 > ## Merksatz
 > Programme und Daten besitzen getrennte Speicher und Busse.
+
+---
+
+# Fragen
+
+- Was ist der Unterschied zur Von-Neumann-Architektur?
+
+> [!spoiler]- Lösung anzeigen
+> Bei der Harvard-Architektur sind:
+> - Programmspeicher
+> - Datenspeicher
+>
+> getrennt.
+>
+> Bei der [[Von-Neumann-Architektur]]
+> teilen sich beide denselben Speicher.
+
+---
+
+- Warum ist die Harvard-Architektur schneller?
+
+> [!spoiler]- Lösung anzeigen
+> Daten und Befehle können gleichzeitig gelesen werden.
+>
+> Dadurch entstehen weniger Wartezeiten und Engpässe.
+
+---
+
+- Wo wird die Harvard-Architektur häufig eingesetzt?
+
+> [!spoiler]- Lösung anzeigen
+> Die Harvard-Architektur wird häufig verwendet bei:
+> - Mikrocontrollern
+> - Embedded Systems
+> - DSPs

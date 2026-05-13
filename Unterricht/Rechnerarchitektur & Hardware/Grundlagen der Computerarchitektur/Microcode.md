@@ -80,3 +80,34 @@ nutzt die CPU den Microcode, um Befehle intern auszuführen.
 > [!important]
 > ## Merksatz
 > Microcode zerlegt komplexe Befehle in kleine interne Arbeitsschritte.
+
+---
+
+# Fragen
+
+- Was ist Microcode?
+
+> [!spoiler]- Lösung anzeigen
+> Microcode sind kleine interne Steuerbefehle innerhalb der
+> [[CPU]].
+>
+> Sie helfen dabei, komplexe Maschinenbefehle auszuführen.
+
+---
+
+- Warum wird Microcode besonders bei CISC verwendet?
+
+> [!spoiler]- Lösung anzeigen
+> Bei [[CISC]]
+> bestehen viele komplexe Befehle aus mehreren kleinen Einzelschritten.
+>
+> Microcode zerlegt diese Befehle in einfachere interne Operationen.
+
+---
+
+- Was sind Mikrooperationen?
+
+> [!spoiler]- Lösung anzeigen
+> Mikrooperationen sind kleine interne Arbeitsschritte der CPU.
+>
+> Sie werden genutzt, um komplexe Befehle Schritt für Schritt auszuführen.

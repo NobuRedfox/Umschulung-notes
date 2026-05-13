@@ -102,3 +102,41 @@ eingesetzt.
 > [!important]
 > ## Merksatz
 > Wasserkühlung nutzt Flüssigkeit, um Wärme effizient aus dem Computer abzuleiten.
+
+---
+
+# Fragen
+
+- Wie funktioniert eine Wasserkühlung?
+
+> [!spoiler]- Lösung anzeigen
+> Die Wärme wird:
+> 1. von der Hardware aufgenommen
+> 2. an einen Wasserkühler übertragen
+> 3. durch Flüssigkeit transportiert
+> 4. über einen Radiator abgegeben
+
+---
+
+- Welche Bestandteile besitzt sie?
+
+> [!spoiler]- Lösung anzeigen
+> Eine Wasserkühlung besteht meist aus:
+> - Wasserblock
+> - Pumpe
+> - Schläuchen
+> - Radiator
+> - Lüftern
+> - Kühlflüssigkeit
+> - [[Wärmeleitpaste]]
+
+---
+
+- Warum wird sie häufig bei Gaming-PCs verwendet?
+
+> [!spoiler]- Lösung anzeigen
+> Gaming-PCs erzeugen viel Wärme durch leistungsstarke:
+> - [[CPU]]s
+> - [[GPU]]s
+>
+> Wasserkühlungen können diese Wärme besonders effizient und oft leiser abführen.

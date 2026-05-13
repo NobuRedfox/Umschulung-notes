@@ -95,3 +95,38 @@ SSDs arbeiten vollständig elektronisch.
 > [!important]
 > ## Merksatz
 > Eine HDD speichert Daten mechanisch auf rotierenden Magnetscheiben.
+
+---
+
+# Fragen
+
+- Wie speichert eine HDD Daten?
+
+> [!spoiler]- Lösung anzeigen
+> Eine HDD speichert Daten magnetisch auf rotierenden Scheiben.
+
+---
+
+- Warum ist eine HDD langsamer als eine SSD?
+
+> [!spoiler]- Lösung anzeigen
+> Eine HDD besitzt mechanische Bauteile.
+>
+> Die Schreib-/Leseköpfe müssen sich physisch bewegen.
+>
+> Eine [[SSD]]
+> arbeitet dagegen vollständig elektronisch und ist deshalb schneller.
+
+---
+
+- Welche Vor- und Nachteile besitzt eine HDD?
+
+> [!spoiler]- Lösung anzeigen
+> Vorteile:
+> - viel Speicherplatz
+> - günstig pro Gigabyte
+>
+> Nachteile:
+> - langsamer als eine [[SSD]]
+> - empfindlich gegen Erschütterungen
+> - hörbare Geräusche

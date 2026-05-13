@@ -72,3 +72,45 @@ Dadurch existiert die klassische Southbridge heute meist nicht mehr separat.
 > [!important]
 > ## Merksatz
 > Die Southbridge verwaltet langsamere Geräte und Anschlüsse eines Computers.
+
+---
+
+# Fragen
+
+- Welche Aufgaben hatte die Southbridge?
+
+> [!spoiler]- Lösung anzeigen
+> Die Southbridge verwaltete langsamere Hardware und Schnittstellen.
+>
+> Dazu gehörten:
+> - [[USB]]
+> - [[SATA]]
+> - Audio
+> - Netzwerk
+> - Eingabegeräte
+
+---
+
+- Welche Geräte wurden über sie verwaltet?
+
+> [!spoiler]- Lösung anzeigen
+> Über die Southbridge wurden unter anderem verwaltet:
+> - Festplatten
+> - USB-Geräte
+> - Audiohardware
+> - Netzwerkschnittstellen
+
+---
+
+- Was unterscheidet sie von der Northbridge?
+
+> [!spoiler]- Lösung anzeigen
+> Die [[Northbridge]]
+> war für schnelle Komponenten wie:
+> - [[CPU]]
+> - [[RAM]]
+> - [[GPU]]
+>
+> zuständig.
+>
+> Die Southbridge verwaltete dagegen langsamere Geräte und Anschlüsse.

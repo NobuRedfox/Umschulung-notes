@@ -26,21 +26,15 @@ Dadurch entsteht ein Engpass.
 
 ---
 
-## Problem
+## Auswirkungen
 
 Die CPU muss häufig:
 - auf Daten warten
 - auf Befehle warten
 
-Das verlangsamt das gesamte System.
-
----
-
-## Auswirkungen
-
-- geringere Geschwindigkeit
-- langsamere Speicherzugriffe
-- ungenutzte CPU-Leistung
+Dadurch:
+- sinkt die Geschwindigkeit
+- bleibt Rechenleistung ungenutzt
 
 ---
 
@@ -76,3 +70,36 @@ Dadurch können beide gleichzeitig gelesen werden.
 > [!important]
 > ## Merksatz
 > Die CPU ist oft schneller als die Datenübertragung zum Arbeitsspeicher.
+
+---
+
+# Fragen
+
+- Was beschreibt der Von-Neumann-Flaschenhals?
+
+> [!spoiler]- Lösung anzeigen
+> Der Von-Neumann-Flaschenhals beschreibt den Engpass zwischen
+> [[CPU]]
+> und [[RAM]].
+>
+> Beide verwenden denselben Datenbus für Programme und Daten.
+
+---
+
+- Warum muss die CPU oft warten?
+
+> [!spoiler]- Lösung anzeigen
+> Die CPU muss warten, weil Daten und Befehle über denselben Bus übertragen werden.
+>
+> Dadurch entstehen Verzögerungen beim Speicherzugriff.
+
+---
+
+- Wie kann der Flaschenhals reduziert werden?
+
+> [!spoiler]- Lösung anzeigen
+> Der Flaschenhals kann reduziert werden durch:
+> - Cache-Speicher
+> - schnelleren RAM
+> - mehrere Busse
+> - parallele Verarbeitung

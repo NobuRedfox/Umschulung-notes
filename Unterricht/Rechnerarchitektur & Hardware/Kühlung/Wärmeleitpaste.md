@@ -81,7 +81,7 @@ Wärmeleitpaste unterstützt verschiedene Arten der
 [[Kühlung]],
 zum Beispiel:
 - [[Luftkühlung]]
-- Wasserkühlung
+- [[Wasserkühlung]]
 - [[Passive Kühlung]]
 
 ---
@@ -99,3 +99,42 @@ zum Beispiel:
 > [!important]
 > ## Merksatz
 > Wärmeleitpaste verbessert die Wärmeübertragung zwischen Chip und Kühler.
+
+---
+
+# Fragen
+
+- Warum wird Wärmeleitpaste verwendet?
+
+> [!spoiler]- Lösung anzeigen
+> Wärmeleitpaste verbessert die Wärmeübertragung zwischen:
+> - Chip
+> - Kühler
+>
+> Dadurch kann Wärme effizienter abgeführt werden.
+
+---
+
+- Wo wird Wärmeleitpaste aufgetragen?
+
+> [!spoiler]- Lösung anzeigen
+> Wärmeleitpaste wird meist zwischen:
+> - [[CPU]]
+> - Kühler
+>
+> oder:
+> - [[GPU]]
+> - Kühler
+>
+> aufgetragen.
+
+---
+
+- Warum verschlechtert Luft die Wärmeübertragung?
+
+> [!spoiler]- Lösung anzeigen
+> Luft leitet Wärme schlecht.
+>
+> Kleine Luftspalten zwischen Chip und Kühler verschlechtern deshalb die Kühlung.
+>
+> Wärmeleitpaste ersetzt diese Luftspalten und verbessert den Wärmekontakt.

@@ -68,3 +68,35 @@ Jede NIC besitzt eine eindeutige
 > [!important]
 > ## Merksatz
 > Die NIC verbindet einen Computer mit einem Netzwerk.
+
+---
+
+# Fragen
+
+- Wofür steht NIC?
+
+> [!spoiler]- Lösung anzeigen
+> NIC steht für:
+>
+> Network Interface Card
+
+---
+
+- Welche Aufgabe besitzt eine Netzwerkkarte?
+
+> [!spoiler]- Lösung anzeigen
+> Eine Netzwerkkarte:
+> - sendet Daten
+> - empfängt Daten
+> - verbindet Computer mit Netzwerken und dem Internet
+
+---
+
+- Welche Arten von NICs gibt es?
+
+> [!spoiler]- Lösung anzeigen
+> Es gibt unter anderem:
+> - LAN-Karten
+> - WLAN-Karten
+>
+> LAN nutzt Netzwerkkabel, WLAN Funkverbindungen.
