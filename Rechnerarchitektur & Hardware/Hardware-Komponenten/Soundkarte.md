@@ -248,7 +248,6 @@ Wichtige Begriffe:
 - [[PCIe]]
 - [[CPU]]
 - [[USB]]
-- [[Hardware-Komponenten]]
 
 ---
 
