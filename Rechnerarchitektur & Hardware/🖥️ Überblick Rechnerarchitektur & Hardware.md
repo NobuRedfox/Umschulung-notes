@@ -20,13 +20,14 @@
 
 ### Hardware-Komponenten
 - [[CPU]]
-- [[RAM]]
 - [[GPU]]
+- [[RAM]]
+- [[Cache]]
 - [[HDD]]
 - [[SSD]]
-- [[NIC]]
 - [[Netzteil]]
-
+- [[NIC]]
+- [[Soundkarte]]
 
 ### Schnittstellen & Anschlüsse
 - [[Schnittstellen]]
@@ -34,6 +35,9 @@
 - [[SATA]]
 - [[PCIe]]
 - [[HDMI]]
+- [[DisplayPort]]
+- [[Ethernet]]
+- [[WLAN]]
 - [[MAC-Adresse]]
 
 ### Kühlung
