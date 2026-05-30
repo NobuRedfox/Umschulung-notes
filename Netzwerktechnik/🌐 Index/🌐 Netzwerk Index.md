@@ -1,13 +1,12 @@
 # Grundlagen
 
-## Adressierung
-
 - [[IPv4]]
 - [[IPv6]]
 - [[MAC-Adressen]]
 - [[Netzmaske]]
 - [[CIDR]]
 - [[Broadcastadresse]]
+- [[OSI-Modell]]
 
 ---
 
@@ -21,7 +20,7 @@
 ## Netzwerkdienste
 
 - [[DNS]]
-- [[DHCP]]
+- [[Umschulung /Netzwerktechnik/01 Grundlagen/DHCP]]
 - [[NAT]]
 
 ---
@@ -85,7 +84,6 @@
 - [[Subnetting-Uebungen]]
 - [[VLSM-Uebungen]]
 - [[IPv4-Uebungen]]
-- [[Netzwerktechnik-Lernzielkontrolle]]
 
 ---
 
