@@ -188,9 +188,10 @@ Hier arbeitet Routing.
 
 ## Aufgabe
 
-Übertragung im lokalen Netzwerk.
+Übertragung von Daten im lokalen Netzwerk.
 
 Hier arbeiten:
+
 - MAC-Adressen
 - Switches
 - Bridges
@@ -207,9 +208,10 @@ Hier arbeiten:
 
 ## Beispiele
 
-- Switch verbindet PCs
-- ARP sucht MAC-Adresse
-- Bridge verbindet Container
+- Switch verbindet mehrere PCs im LAN  
+- ARP sucht zu einer IP-Adresse die passende MAC-Adresse  
+- Bridge verbindet zwei Netzwerke oder Container  
+- Daten werden als Ethernet-Frames übertragen
 
 ---
 
@@ -225,18 +227,19 @@ Bits werden über Kabel oder Funk übertragen.
 
 ## Protokolle / Standards
 
-- Ethernet-Kabel
+- LAN-Kabel
 - Glasfaser
-- WLAN
-- RJ45
+- WLAN-Funksignal
+- Netzwerkkarten
+- RJ45-Stecker
 
 ---
 
 ## Beispiele
 
-- LAN-Kabel
-- WLAN-Signal
-- Netzwerkkarte
+- LAN-Kabel zwischen PC und Switch
+- WLAN-Signal 
+- Lichtsignal über Glasfaser
 
 ---
 
