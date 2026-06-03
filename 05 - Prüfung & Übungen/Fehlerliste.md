@@ -1,4 +1,3 @@
-# Fehlerliste
 
 > [!warning]
 > Alle Fragen, die noch nicht sicher sitzen, kommen hier hinein.

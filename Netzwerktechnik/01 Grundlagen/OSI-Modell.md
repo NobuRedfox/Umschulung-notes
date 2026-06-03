@@ -112,7 +112,7 @@ Zum Beispiel:
 ## Protokolle
 
 - NetBIOS
-- RPC
+- RPC (Remote Procedure Call)
 - SMB-Sitzungen
 
 ---
@@ -148,10 +148,12 @@ Hier wird geregelt:
 ## Beispiele
 
 TCP:
+- Verbindungsorientiert
 - Webseiten
 - SSH
 
 UDP:
+- Verbindungslos
 - DNS
 - Gaming
 - Streaming
@@ -178,7 +180,7 @@ Hier arbeitet Routing.
 
 ## Beispiele
 
-- Router entscheidet Weg
+- Router entscheidet den besten Weg
 - ping
 - Internetverbindung
 
@@ -203,6 +205,7 @@ Hier arbeiten:
 - Ethernet
 - ARP
 - VLAN
+- PPP (Point to Point Protocol)
 
 ---
 
@@ -227,8 +230,8 @@ Bits werden über Kabel oder Funk übertragen.
 
 ## Protokolle / Standards
 
-- LAN-Kabel
-- Glasfaser
+- Stecker und Kabel
+- Glasfaser (Lichtsignale)
 - WLAN-Funksignal
 - Netzwerkkarten
 - RJ45-Stecker

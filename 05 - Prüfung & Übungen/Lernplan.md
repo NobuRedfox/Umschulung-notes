@@ -1,4 +1,3 @@
-# Lernplan
 
 > [!info]
 > Ziel: Jeden Tag kurz üben, Fehler sammeln und schwierige Fragen so lange wiederholen, bis sie sicher sitzen.

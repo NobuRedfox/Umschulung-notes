@@ -1,4 +1,3 @@
-# Lernfortschritt
 
 > [!info]
 > Hier wird gespeichert, welche Fragen du schon kannst und welche nochmal wiederholt werden müssen.
