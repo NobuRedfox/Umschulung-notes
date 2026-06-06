@@ -12,7 +12,7 @@
 | 2026-06-03 | Was ist eine MAC-Adresse? | Netzwerktechnik | ✅ | in 7 Tagen | richtig: physische Adresse der Netzwerkkarte im lokalen Netz |
 | 2026-06-03 | Was macht DHCP? | Netzwerktechnik | ✅ | in 7 Tagen | jetzt richtig: IP-Adresse, Subnetzmaske, DNS-Server; Gateway kann auch mitkommen |
 | 2026-06-03 | Unterschied zwischen Switch und Router? | Netzwerktechnik | ✅ | in 7 Tagen | jetzt richtig: Switch im Netzwerk, Router zwischen Netzwerken |
-| 2026-06-03 | Was bedeutet `/24`? | Subnetting | 🟡 | morgen | fast richtig: 24 Bit Netzanteil; Netzmaske 255.255.255.0, letzte 0 normal schreiben |
+| 2026-06-03 | Was bedeutet `/24`? | Subnetting | ✅ | in 7 Tagen | jetzt richtig: 24 Bit Netzanteil und 255.255.255.0 |
 | 2026-06-03 | Was zeigt `ip addr` an? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: Schnittstellen, IP-Adressen und MAC-Adressen |
 | 2026-06-03 | Was macht `ping`? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: prüft Erreichbarkeit und Antwortzeit |
 | 2026-06-03 | Was ist ein Default Gateway? | Netzwerktechnik | ✅ | in 7 Tagen | richtig: Tor/Router zu anderen Netzwerken |
@@ -25,13 +25,20 @@
 | 2026-06-04 | Was macht NAT? | Netzwerktechnik | ✅ | in 7 Tagen | richtig: übersetzt private in öffentliche IP-Adressen |
 | 2026-06-04 | Was ist ein Branch? | Git | ✅ | in 7 Tagen | richtig: Abzweigung/Arbeitszweig vom Hauptstand |
 | 2026-06-04 | Was ist ein Konstruktor? | Java | ✅ | in 7 Tagen | jetzt richtig: spezielle Methode beim Erzeugen eines Objekts |
-| 2026-06-05 | Was bedeutet CIDR? | Subnetting | ❌ | morgen | nicht gewusst: Classless Inter-Domain Routing; Schreibweise mit /24, /26 usw. |
+| 2026-06-05 | Was bedeutet CIDR? | Subnetting | ✅ | in 7 Tagen | richtig: Classless Inter-Domain Routing |
 | 2026-06-05 | Wie viele nutzbare Hosts hat ein `/24`? | Subnetting | ✅ | in 7 Tagen | richtig: 254 nutzbare Hosts |
 | 2026-06-05 | Was ist ein veth-Pair? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: virtuelles Kabel |
 | 2026-06-05 | Was ist ein Network Namespace? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: isolierter Netzwerkbereich mit eigenen Ressourcen |
 | 2026-06-05 | Was macht eine Bridge in Linux? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: virtueller Switch, verbindet Geräte/Interfaces |
-| 2026-06-05 | Unterschied zwischen `git push` und `git pull`? | Git | 🟡 | morgen | fast richtig; push lädt Commits hoch, nicht nur Vormerkungen |
+| 2026-06-05 | Unterschied zwischen `git push` und `git pull`? | Git | ✅ | in 7 Tagen | jetzt richtig: push = lokale Commits zu GitHub, pull = GitHub ins lokale Repo |
 | 2026-06-05 | Was ist in Java ein Objekt? | Java | ✅ | in 7 Tagen | richtig: konkrete Instanz einer Klasse |
+| 2026-06-06 | Wie viele Host-Bits bleiben bei `/24`? | Subnetting | ❌ | morgen | verwechselt mit nutzbaren Hosts; Host-Bits = 32 - 24 = 8 |
+| 2026-06-06 | Wie berechnet man nutzbare Hosts? | Subnetting | ✅ | in 7 Tagen | richtig: 2^Hostbits - 2 |
+| 2026-06-06 | Was bedeutet `/26`? | Subnetting | 🟡 | morgen | Netzmaske 255.255.255.192 stimmt; genauer auch 26 Bit Netzanteil und 6 Host-Bits |
+| 2026-06-06 | Wie viele nutzbare Hosts hat `/26`? | Subnetting | ❌ | morgen | richtig sind 62; 32-26=6, 2^6-2=62 |
+| 2026-06-06 | Wofür benutzt man WireGuard? | VPN | ✅ | in 7 Tagen | richtig: sicherer Tunnel durch unsichere Netze |
+| 2026-06-06 | Was bedeutet AllowedIPs bei WireGuard? | VPN | ❌ | morgen | legt fest, welche IPs über diesen Peer geroutet werden dürfen/sollen |
+| 2026-06-06 | Unterschied Klasse und Objekt? | Java | ✅ | in 7 Tagen | richtig: Klasse = Bauplan, Objekt = konkrete Instanz |
 
 ---
 
@@ -68,3 +75,10 @@
 - Ergebnis: 7x ✅, 2x 🟡, 1x ❌
 - Verbessert: `ip route`, Konstruktor
 - Wiederholen: `/24`, CIDR, git push/git pull
+
+## 2026-06-06
+
+- Tag 4 beantwortet
+- Ergebnis: 6x ✅, 1x 🟡, 3x ❌
+- Verbessert: CIDR, `/24`, git push/git pull
+- Wiederholen: Host-Bits bei `/24`, `/26`, Hosts bei `/26`, AllowedIPs
