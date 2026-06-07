@@ -32,13 +32,19 @@
 | 2026-06-05 | Was macht eine Bridge in Linux? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: virtueller Switch, verbindet Geräte/Interfaces |
 | 2026-06-05 | Unterschied zwischen `git push` und `git pull`? | Git | ✅ | in 7 Tagen | jetzt richtig: push = lokale Commits zu GitHub, pull = GitHub ins lokale Repo |
 | 2026-06-05 | Was ist in Java ein Objekt? | Java | ✅ | in 7 Tagen | richtig: konkrete Instanz einer Klasse |
-| 2026-06-06 | Wie viele Host-Bits bleiben bei `/24`? | Subnetting | ❌ | morgen | verwechselt mit nutzbaren Hosts; Host-Bits = 32 - 24 = 8 |
+| 2026-06-06 | Wie viele Host-Bits bleiben bei `/24`? | Subnetting | ✅ | in 7 Tagen | jetzt richtig: 8 Host-Bits |
 | 2026-06-06 | Wie berechnet man nutzbare Hosts? | Subnetting | ✅ | in 7 Tagen | richtig: 2^Hostbits - 2 |
-| 2026-06-06 | Was bedeutet `/26`? | Subnetting | 🟡 | morgen | Netzmaske 255.255.255.192 stimmt; genauer auch 26 Bit Netzanteil und 6 Host-Bits |
-| 2026-06-06 | Wie viele nutzbare Hosts hat `/26`? | Subnetting | ❌ | morgen | richtig sind 62; 32-26=6, 2^6-2=62 |
+| 2026-06-06 | Was bedeutet `/26`? | Subnetting | ✅ | in 7 Tagen | jetzt richtig: 26 Bit Netzanteil, 6 Host-Bits, 255.255.255.192 |
+| 2026-06-06 | Wie viele nutzbare Hosts hat `/26`? | Subnetting | ✅ | in 7 Tagen | richtig: 62 nutzbare Hosts |
 | 2026-06-06 | Wofür benutzt man WireGuard? | VPN | ✅ | in 7 Tagen | richtig: sicherer Tunnel durch unsichere Netze |
-| 2026-06-06 | Was bedeutet AllowedIPs bei WireGuard? | VPN | ❌ | morgen | legt fest, welche IPs über diesen Peer geroutet werden dürfen/sollen |
+| 2026-06-06 | Was bedeutet AllowedIPs bei WireGuard? | VPN | ✅ | in 7 Tagen | jetzt richtig: welche IP-Adressen über diesen Peer geroutet werden |
 | 2026-06-06 | Unterschied Klasse und Objekt? | Java | ✅ | in 7 Tagen | richtig: Klasse = Bauplan, Objekt = konkrete Instanz |
+| 2026-06-07 | Unterschied private und öffentliche IP-Adresse? | Netzwerktechnik | 🟡 | morgen | Grundidee fast richtig; öffentliche IP ist fürs Internet eindeutig erreichbar, private nur im lokalen Netz |
+| 2026-06-07 | Unterschied Netzadresse und Broadcastadresse? | Subnetting | ✅ | in 7 Tagen | richtig: erste Adresse = Netzadresse, letzte Adresse = Broadcastadresse |
+| 2026-06-07 | Was macht `ip netns add test`? | Linux-Netzwerk | 🟡 | morgen | erstellt einen neuen Network Namespace mit dem Namen test |
+| 2026-06-07 | Was macht `ip link add veth1 type veth peer name veth2`? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: erstellt ein veth-Pair, also ein virtuelles Kabel mit zwei Enden |
+| 2026-06-07 | Was ist in Java eine Klasse? | Java | ✅ | in 7 Tagen | richtig: Bauplan für Objekte |
+| 2026-06-07 | Was ist eine `.gitignore`-Datei? | Git | ✅ | in 7 Tagen | richtig: legt fest, welche Dateien Git ignorieren soll |
 
 ---
 
@@ -82,3 +88,10 @@
 - Ergebnis: 6x ✅, 1x 🟡, 3x ❌
 - Verbessert: CIDR, `/24`, git push/git pull
 - Wiederholen: Host-Bits bei `/24`, `/26`, Hosts bei `/26`, AllowedIPs
+
+## 2026-06-07
+
+- Tag 5 beantwortet
+- Ergebnis: 8x ✅, 2x 🟡, 0x ❌
+- Verbessert: Host-Bits bei `/24`, `/26`, Hosts bei `/26`, AllowedIPs
+- Wiederholen: private/öffentliche IP-Adresse, `ip netns add`
