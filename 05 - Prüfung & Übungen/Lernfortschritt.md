@@ -39,12 +39,20 @@
 | 2026-06-06 | Wofür benutzt man WireGuard? | VPN | ✅ | in 7 Tagen | richtig: sicherer Tunnel durch unsichere Netze |
 | 2026-06-06 | Was bedeutet AllowedIPs bei WireGuard? | VPN | ✅ | in 7 Tagen | jetzt richtig: welche IP-Adressen über diesen Peer geroutet werden |
 | 2026-06-06 | Unterschied Klasse und Objekt? | Java | ✅ | in 7 Tagen | richtig: Klasse = Bauplan, Objekt = konkrete Instanz |
-| 2026-06-07 | Unterschied private und öffentliche IP-Adresse? | Netzwerktechnik | 🟡 | morgen | Grundidee fast richtig; öffentliche IP ist fürs Internet eindeutig erreichbar, private nur im lokalen Netz |
+| 2026-06-07 | Unterschied private und öffentliche IP-Adresse? | Netzwerktechnik | ✅ | in 7 Tagen | jetzt richtig: private nur lokal, öffentliche weltweit eindeutig/im Internet erreichbar |
 | 2026-06-07 | Unterschied Netzadresse und Broadcastadresse? | Subnetting | ✅ | in 7 Tagen | richtig: erste Adresse = Netzadresse, letzte Adresse = Broadcastadresse |
-| 2026-06-07 | Was macht `ip netns add test`? | Linux-Netzwerk | 🟡 | morgen | erstellt einen neuen Network Namespace mit dem Namen test |
+| 2026-06-07 | Was macht `ip netns add test`? | Linux-Netzwerk | ✅ | in 7 Tagen | jetzt richtig: erstellt einen neuen Network Namespace mit dem Namen test |
 | 2026-06-07 | Was macht `ip link add veth1 type veth peer name veth2`? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: erstellt ein veth-Pair, also ein virtuelles Kabel mit zwei Enden |
 | 2026-06-07 | Was ist in Java eine Klasse? | Java | ✅ | in 7 Tagen | richtig: Bauplan für Objekte |
 | 2026-06-07 | Was ist eine `.gitignore`-Datei? | Git | ✅ | in 7 Tagen | richtig: legt fest, welche Dateien Git ignorieren soll |
+| 2026-06-08 | Was macht `ip netns exec test ip addr`? | Linux-Netzwerk | ❌ | morgen | zeigt IP-/Interface-Infos im Namespace test an; vergibt keine IP |
+| 2026-06-08 | Was macht `ip link set veth1 netns test`? | Linux-Netzwerk | 🟡 | morgen | verschiebt das Interface veth1 in den Namespace test |
+| 2026-06-08 | Warum `ip link set ... up`? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: Interface muss aktiviert werden, damit es nutzbar/erreichbar ist |
+| 2026-06-08 | Unterschied ARP und DNS? | Netzwerktechnik | 🟡 | morgen | DNS stimmt; ARP findet zu einer IP-Adresse die MAC-Adresse, nicht umgekehrt |
+| 2026-06-08 | Default Gateway im Container/Namespace? | Netzwerktechnik | ❌ | morgen | Router/Next Hop, über den der Namespace andere Netzwerke erreicht |
+| 2026-06-08 | Was bedeutet `/32` bei WireGuard Peer-IP? | VPN | ❌ | morgen | genau eine einzelne IP-Adresse, kein ganzes Netz |
+| 2026-06-08 | Was macht `new` in Java? | Java | ✅ | in 7 Tagen | richtig: erzeugt/instanziiert ein neues Objekt |
+| 2026-06-08 | Unterschied `private` und `public` in Java? | Java | 🟡 | morgen | private nur innerhalb der Klasse, public von außen zugreifbar; gilt für Klassen/Attribute/Methoden |
 
 ---
 
@@ -95,3 +103,10 @@
 - Ergebnis: 8x ✅, 2x 🟡, 0x ❌
 - Verbessert: Host-Bits bei `/24`, `/26`, Hosts bei `/26`, AllowedIPs
 - Wiederholen: private/öffentliche IP-Adresse, `ip netns add`
+
+## 2026-06-08
+
+- Tag 6 beantwortet
+- Ergebnis: 4x ✅, 3x 🟡, 3x ❌
+- Verbessert: private/öffentliche IP-Adresse, `ip netns add`
+- Wiederholen: `ip netns exec`, `ip link set ... netns`, ARP, Default Gateway im Namespace, `/32` bei WireGuard, `private/public`
