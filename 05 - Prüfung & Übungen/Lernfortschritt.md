@@ -42,7 +42,7 @@
 | 2026-06-07 | Unterschied private und öffentliche IP-Adresse? | Netzwerktechnik | ✅ | in 7 Tagen | jetzt richtig: private nur lokal, öffentliche weltweit eindeutig/im Internet erreichbar |
 | 2026-06-07 | Unterschied Netzadresse und Broadcastadresse? | Subnetting | ✅ | in 7 Tagen | richtig: erste Adresse = Netzadresse, letzte Adresse = Broadcastadresse |
 | 2026-06-07 | Was macht `ip netns add test`? | Linux-Netzwerk | ✅ | in 7 Tagen | jetzt richtig: erstellt einen neuen Network Namespace mit dem Namen test |
-| 2026-06-07 | Was macht `ip link add veth1 type veth peer name veth2`? | Linux-Netzwerk | ✅ | richtig: erstellt ein veth-Pair, also ein virtuelles Kabel mit zwei Enden |
+| 2026-06-07 | Was macht `ip link add veth1 type veth peer name veth2`? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: erstellt ein veth-Pair, also ein virtuelles Kabel mit zwei Enden |
 | 2026-06-07 | Was ist in Java eine Klasse? | Java | ✅ | in 7 Tagen | richtig: Bauplan für Objekte |
 | 2026-06-07 | Was ist eine `.gitignore`-Datei? | Git | ✅ | in 7 Tagen | richtig: legt fest, welche Dateien Git ignorieren soll |
 | 2026-06-08 | Was macht `ip netns exec test ip addr`? | Linux-Netzwerk | ✅ | in 7 Tagen | jetzt richtig: führt ip addr im Namespace test aus |
@@ -50,13 +50,20 @@
 | 2026-06-08 | Warum `ip link set ... up`? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: Interface muss aktiviert werden, damit es nutzbar/erreichbar ist |
 | 2026-06-08 | Unterschied ARP und DNS? | Netzwerktechnik | ✅ | in 7 Tagen | jetzt richtig: ARP IP zu MAC, DNS Name zu IP |
 | 2026-06-08 | Default Gateway im Container/Namespace? | Netzwerktechnik | ✅ | in 7 Tagen | richtig: Router/Next Hop für Ziele außerhalb des eigenen Netzes |
-| 2026-06-08 | Was bedeutet `/32` bei WireGuard Peer-IP? | VPN | 🟡 | morgen | Beispiel genannt; genauer: /32 meint genau eine einzelne IP-Adresse |
+| 2026-06-08 | Was bedeutet `/32` bei WireGuard Peer-IP? | VPN | ✅ | in 7 Tagen | jetzt richtig: /32 bedeutet genau eine einzelne IP-Adresse |
 | 2026-06-08 | Was macht `new` in Java? | Java | ✅ | in 7 Tagen | richtig: erzeugt/instanziiert ein neues Objekt |
 | 2026-06-08 | Unterschied `private` und `public` in Java? | Java | ✅ | in 7 Tagen | richtig: private nur Klasse selbst, public von außen zugreifbar |
 | 2026-06-09 | Was macht `ip addr add 10.0.0.1/24 dev veth1`? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: fügt veth1 die IP-Adresse 10.0.0.1/24 hinzu |
 | 2026-06-09 | Was macht `ip route add default via 10.0.0.1`? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: fügt ein Default Gateway hinzu |
-| 2026-06-09 | Unterschied Routing und NAT? | Netzwerktechnik | 🟡 | morgen | Routing entscheidet den Weg; NAT übersetzt IP-Adressen |
-| 2026-06-09 | Was bedeutet Kapselung in Java? | Java | ❌ | morgen | Daten/Attribute schützen und Zugriff über Methoden steuern, meist private + Getter/Setter |
+| 2026-06-09 | Unterschied Routing und NAT? | Netzwerktechnik | ✅ | in 7 Tagen | jetzt richtig: Routing bestimmt den Weg, NAT übersetzt IP-Adressen |
+| 2026-06-09 | Was bedeutet Kapselung in Java? | Java | ✅ | in 7 Tagen | jetzt richtig: Daten verstecken und kontrolliert zugänglich machen |
+| 2026-06-10 | Befehl zum Anzeigen der IP im Namespace? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: ip addr im Namespace ausführen |
+| 2026-06-10 | Default Route im Namespace setzen | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: ip route add default via 10.0.0.1 |
+| 2026-06-10 | Warum braucht ein Namespace eine Default Route? | Netzwerktechnik | ✅ | in 7 Tagen | richtig: um Ziele außerhalb des eigenen Netzes zu erreichen |
+| 2026-06-10 | Was macht ip_forward? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: aktiviert IP-Forwarding auf dem Host |
+| 2026-06-10 | Unterschied Forwarding und NAT? | Netzwerktechnik | ✅ | in 7 Tagen | richtig: Forwarding leitet weiter, NAT verändert Adressen |
+| 2026-06-10 | Was ist ein Attribut in Java? | Java | ✅ | in 7 Tagen | richtig: Variable/Feld innerhalb einer Klasse |
+| 2026-06-10 | Warum Attribute private setzen? | Java | ✅ | in 7 Tagen | richtig: direkter Zugriff von außen wird verhindert, Kontrolle bleibt in der Klasse |
 
 ---
 
@@ -121,3 +128,10 @@
 - Ergebnis: 7x ✅, 2x 🟡, 1x ❌
 - Verbessert: `ip netns exec`, `ip link set ... netns`, ARP, Default Gateway, `private/public`
 - Wiederholen: `/32` bei WireGuard, Routing vs NAT, Kapselung
+
+## 2026-06-10
+
+- Tag 8 beantwortet
+- Ergebnis: 10x ✅, 0x 🟡, 0x ❌
+- Verbessert: `/32`, Routing vs NAT, Kapselung
+- Szenariofragen zu Namespace, Default Route, Forwarding, NAT und Java-Kapselung sicher beantwortet
