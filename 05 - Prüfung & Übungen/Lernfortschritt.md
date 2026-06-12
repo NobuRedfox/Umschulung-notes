@@ -64,6 +64,16 @@
 | 2026-06-10 | Unterschied Forwarding und NAT? | Netzwerktechnik | ✅ | in 7 Tagen | richtig: Forwarding leitet weiter, NAT verändert Adressen |
 | 2026-06-10 | Was ist ein Attribut in Java? | Java | ✅ | in 7 Tagen | richtig: Variable/Feld innerhalb einer Klasse |
 | 2026-06-10 | Warum Attribute private setzen? | Java | ✅ | in 7 Tagen | richtig: direkter Zugriff von außen wird verhindert, Kontrolle bleibt in der Klasse |
+| 2026-06-11 | Namespace: Default Route setzen | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: ip route add default via 10.0.0.1 |
+| 2026-06-11 | Namespace erreicht Gateway, aber nicht Internet | Fehleranalyse | ✅ | in 7 Tagen | gut: Routingtabelle und Default Route prüfen; zusätzlich ip_forward/NAT/DNS prüfen |
+| 2026-06-11 | Unterschied ip addr und ip route | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: ip addr zeigt Interfaces/IPs, ip route zeigt Routingtabelle |
+| 2026-06-11 | Was macht ip link set veth1 up? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: aktiviert das Interface |
+| 2026-06-11 | Was macht ip netns exec test ping 10.0.0.1? | Linux-Netzwerk | ✅ | in 7 Tagen | richtig: Ping aus dem Namespace test |
+| 2026-06-11 | Nutzbare Hosts bei 192.168.10.0/26 | Subnetting | ✅ | in 7 Tagen | richtig: 62 Hosts |
+| 2026-06-11 | Netzadresse bei 192.168.10.0/26 | Subnetting | ✅ | in 7 Tagen | richtig: 192.168.10.0 |
+| 2026-06-11 | Broadcastadresse bei 192.168.10.0/26 | Subnetting | ✅ | in 7 Tagen | richtig: 192.168.10.63 |
+| 2026-06-11 | Unterschied Attribut und Methode | Java | ✅ | in 7 Tagen | richtig: Attribut = Eigenschaft, Methode = Verhalten/Funktion |
+| 2026-06-11 | Warum private Attribute und public Methoden? | Java | ✅ | in 7 Tagen | richtig: Kapselung, kontrollierter Zugriff |
 
 ---
 
@@ -135,3 +145,9 @@
 - Ergebnis: 10x ✅, 0x 🟡, 0x ❌
 - Verbessert: `/32`, Routing vs NAT, Kapselung
 - Szenariofragen zu Namespace, Default Route, Forwarding, NAT und Java-Kapselung sicher beantwortet
+
+## 2026-06-11
+
+- Tag 9 beantwortet
+- Ergebnis: 10x ✅, 0x 🟡, 0x ❌
+- Prüfungsszenarien zu Namespace, Routing, /26-Subnetting und Java-OOP sicher beantwortet
