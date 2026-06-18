@@ -21,6 +21,15 @@
 
 ---
 
+# Aktivität
+
+| Tag | Ergebnis | Schwerpunkte |
+|---|---|---|
+| Tag 12 | 8/10 | Getter/Setter, Konstruktor, Git Pull/Push, Docker, Subnetting |
+| Tag 13 | 9/10 | Klasse/Objekt, private/public, Docker, IP-Forwarding, DNS |
+
+---
+
 # Hinweis
 
 Die lange Verlaufstabelle wurde bewusst gekürzt, damit die Datei übersichtlicher bleibt. Aktuell gibt es keinen offenen Wiederholungspunkt aus der letzten Runde.
