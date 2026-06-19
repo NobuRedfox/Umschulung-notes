@@ -20,7 +20,7 @@
 | 2026-06-13 | Unterschied DNS und Default Gateway | Netzwerktechnik | ✅ | in 7 Tagen | richtig: DNS löst Namen auf, Gateway ist Tor zu anderen Netzwerken |
 | 2026-06-19 | docker run | Docker | 🟡 | Tag 15 | erstellt und startet einen neuen Container aus einem Image; lädt das Image bei Bedarf herunter |
 | 2026-06-19 | Konstruktor und normale Methode | Java | ❌ | Tag 15 | Konstruktor initialisiert ein neues Objekt und hat keinen Rückgabetyp; Methode führt eine Aufgabe aus und kann beliebig oft aufgerufen werden |
-| 2026-06-19 | Netzwerk 192.168.20.64/27 | Subnetting | ❌ | Tag 15 | Netzadresse .64, Broadcast .95, 30 nutzbare Hosts |
+| 2026-06-19 | /27-Netz aus Hostadresse bestimmen | Subnetting | ✅ | in 7 Tagen | nach eindeutig formulierter Aufgabe korrekt: Netz .128, Broadcast .159, Hostbereich .129 bis .158, 30 Hosts |
 
 ---
 
@@ -30,10 +30,10 @@
 |---|---|---|
 | Tag 12 | 8/10 | Getter/Setter, Konstruktor, Git Pull/Push, Docker, Subnetting |
 | Tag 13 | 9/10 | Klasse/Objekt, private/public, Docker, IP-Forwarding, DNS |
-| Tag 14 | 7/10 | Docker-Befehle, Instanziierung, Konstruktor vs. Methode, DNS/NAT/Forwarding, /27-Subnetting |
+| Tag 14 | 8/10 | Docker-Befehle, Instanziierung, Konstruktor vs. Methode, DNS/NAT/Forwarding, /27-Subnetting |
 
 ---
 
 # Hinweis
 
-Für Tag 15 werden `docker run`, Konstruktor vs. Methode und die Berechnung eines /27-Netzes wiederholt.
+Für Tag 15 werden `docker run` und Konstruktor vs. Methode wiederholt. Die /27-Aufgabe wurde nach klarerer Formulierung richtig gelöst.
