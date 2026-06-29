@@ -5,4 +5,4 @@
 ## Bedingungen
 - [[Bedingungen]]
 ## Arrays
-- [[Arrays]]
+- [[Java/Grundlagen/Arrays]]

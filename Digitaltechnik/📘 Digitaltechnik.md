@@ -3,7 +3,7 @@
 - [[Bit und Byte]]
 - [[Elektrotechnik Grundlagen]]
 - [[Logikgatter]]
-- [[Übungsaufgaben]]
+- [[Digitaltechnik/Übungsaufgaben]]
 
 ---
 
@@ -43,4 +43,4 @@ Siehe: [[Logikgatter]]
 ---
 
 Übungsaufgaben
-Siehe: [[Übungsaufgaben]]
+Siehe: [[Digitaltechnik/Übungsaufgaben]]
