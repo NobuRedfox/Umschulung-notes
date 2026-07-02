@@ -1,8 +1,8 @@
 ## Variablen
-- [[Variablen]]
+- [[01 Variablen]]
 ## Schleifen
-- [[Schleifen]]
+- [[05 Schleifen]]
 ## Bedingungen
-- [[Bedingungen]]
+- [[04 Bedingungen]]
 ## Arrays
-- [[Java/Grundlagen/Arrays]]
+- [[06 Arrays]]

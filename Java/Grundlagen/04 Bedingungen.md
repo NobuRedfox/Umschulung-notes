@@ -1,5 +1,3 @@
-# Bedingungen ( if )
-
 ## Erklärung
 
 Mit **if**  kannst du Entscheidungen im Code treffen.
