@@ -323,4 +323,4 @@ Warum verwendet man `private`?
 - Der Zugriff erfolgt kontrolliert über Methoden.
 - Im nächsten Kapitel lernst du Getter und Setter kennen.
 
-➡️ **Nächstes Kapitel:** `08 Getter & Setter`
+➡️ **Nächstes Kapitel:** [[08 Getter & Setter]]

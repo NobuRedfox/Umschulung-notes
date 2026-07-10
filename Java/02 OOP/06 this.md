@@ -417,4 +417,4 @@ Erstelle einen Konstruktor für eine Klasse `Hund` mit den Attributen `name` und
 - `this` hilft dabei, Attribute und Parameter mit gleichem Namen zu unterscheiden.
 - Ohne Namenskonflikt kann `this` häufig weggelassen werden.
 
-➡️ **Nächstes Kapitel:** `07 Kapselung`
+➡️ **Nächstes Kapitel:** [[07 Kapselung]]

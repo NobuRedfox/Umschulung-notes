@@ -353,4 +353,4 @@ Welche Klassen besitzt ein Online-Shop?
 - Erst durch `new` entsteht später ein Objekt.
 - Eine Klasse kann beliebig oft verwendet werden.
 
-➡️ **Nächstes Kapitel:** `02 Objekte`
+➡️ **Nächstes Kapitel:** [[02 Objekte]]

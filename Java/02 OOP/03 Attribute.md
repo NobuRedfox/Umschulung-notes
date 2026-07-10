@@ -339,4 +339,4 @@ Erzeuge ein Objekt `person` und gib ihm passende Werte.
 - Attribute besitzen immer einen Datentyp.
 - Jedes Objekt besitzt seine eigenen Attributwerte.
 
-➡️ **Nächstes Kapitel:** `04 Methoden`
+➡️ **Nächstes Kapitel:** [[04 Methoden]]

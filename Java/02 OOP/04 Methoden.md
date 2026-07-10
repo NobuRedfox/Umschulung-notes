@@ -385,4 +385,4 @@ Welche Methoden könnte eine Klasse `Hund` besitzen?
 - Methoden können Werte zurückgeben.
 - `void` bedeutet, dass kein Wert zurückgegeben wird.
 
-➡️ **Nächstes Kapitel:** `05 Konstruktoren`
+➡️ **Nächstes Kapitel:** [[05 Konstruktoren]]

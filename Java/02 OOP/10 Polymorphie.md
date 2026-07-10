@@ -411,4 +411,4 @@ Warum ist Polymorphie nützlich?
 - Überschriebene Methoden werden zur Laufzeit anhand des tatsächlichen Objekts ausgewählt.
 - Polymorphie macht Programme flexibler und leichter erweiterbar.
 
-➡️ **Nächstes Kapitel:** `11 Abstrakte Klassen`
+➡️ **Nächstes Kapitel:** [[11 Abstrakte Klassen]]

@@ -5,4 +5,4 @@
 ## Bedingungen
 - [[04 Bedingungen]]
 ## Arrays
-- [[06 Arrays]]
+- [[07 Arrays]]

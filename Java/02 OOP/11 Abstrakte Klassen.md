@@ -369,4 +369,4 @@ Warum sind abstrakte Methoden sinnvoll?
 - Unterklassen müssen abstrakte Methoden implementieren.
 - Abstrakte Klassen helfen dabei, gemeinsamen Code wiederzuverwenden.
 
-➡️ **Nächstes Kapitel:** `12 Interfaces`
+➡️ **Nächstes Kapitel:** [[12 Interfaces]]

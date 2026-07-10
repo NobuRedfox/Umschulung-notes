@@ -351,4 +351,4 @@ Ohne Klasse kann kein Objekt erzeugt werden.
 - Mehrere Objekte können aus derselben Klasse entstehen.
 - Jedes Objekt besitzt eigene Daten.
 
-➡️ **Nächstes Kapitel:** `03 Attribute`
+➡️ **Nächstes Kapitel:**  [[03 Attribute]]

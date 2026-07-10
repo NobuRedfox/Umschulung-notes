@@ -496,4 +496,7 @@ Warum sollte man möglichst lose gekoppelte Klassen entwickeln?
 
 > [!success] Geschafft! 🎉
 >
-> Damit hast du die wichtigsten Grundlagen der objektorientierten Programmierung abgeschlossen.
+> Damit hast du die wichtigsten Grundlagen der
+> objektorientiertenProgrammierung abgeschlossen.
+
+➡️ **Nächstes Kapitel:** [[14 Cheatsheet]]

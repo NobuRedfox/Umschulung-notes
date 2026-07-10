@@ -352,4 +352,4 @@ public void setAlter(int alter) {
 - Setter können Werte vor dem Speichern überprüfen.
 - Getter und Setter sind ein wichtiger Bestandteil der Kapselung.
 
-➡️ **Nächstes Kapitel:** `09 Vererbung`
+➡️ **Nächstes Kapitel:** [[09 Vererbung]]

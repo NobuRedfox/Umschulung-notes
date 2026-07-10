@@ -345,4 +345,4 @@ Warum sind Konstruktoren praktisch?
 - Mit Konstruktoren können Objekte direkt mit Startwerten erstellt werden.
 - Ohne eigenen Konstruktor erzeugt Java automatisch einen Standardkonstruktor.
 
-➡️ **Nächstes Kapitel:** `06 this`
+➡️ **Nächstes Kapitel:** [[06 this]]

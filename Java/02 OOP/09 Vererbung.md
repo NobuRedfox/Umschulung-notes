@@ -343,4 +343,4 @@ Welche gemeinsamen Eigenschaften könnten `Auto` und `Motorrad` besitzen?
 - Unterklassen können zusätzliche Eigenschaften und Methoden besitzen.
 - Vererbung verbessert die Wiederverwendbarkeit und Wartbarkeit des Codes.
 
-➡️ **Nächstes Kapitel:** `10 Polymorphie`
+➡️ **Nächstes Kapitel:** [[10 Polymorphie]]

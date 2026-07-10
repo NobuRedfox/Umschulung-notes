@@ -266,4 +266,4 @@ Eine Eigenschaft eines Objekts.
 - OOP sorgt für gut strukturierte Programme.
 - Die folgenden Kapitel erklären jedes Thema im Detail.
 
-➡️ **Nächstes Kapitel:** `01 Klasse`
+➡️ **Nächstes Kapitel:** [[01 Klasse]]

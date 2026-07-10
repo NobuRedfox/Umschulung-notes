@@ -398,4 +398,4 @@ Wann verwendet man eher ein Interface als Vererbung?
 - Eine Klasse kann mehrere Interfaces implementieren.
 - Interfaces beschreiben Fähigkeiten, nicht Verwandtschaft.
 
-➡️ **Nächstes Kapitel:** `13 Beziehungen zwischen Klassen`
+➡️ **Nächstes Kapitel:** [[13 Beziehungen zwischen Klassen]]
