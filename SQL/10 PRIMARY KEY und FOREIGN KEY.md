@@ -687,4 +687,4 @@ Und beim Löschen abhängiger Datensätze:
 
 ⬅️ [[09 Datentypen|Zurück zu Kapitel 09 – Datentypen]]
 
-➡️ [[11 Beziehungen 1 zu n und n zu m|Weiter zu Kapitel 11 – Beziehungen 1 zu n und n zu m]]
+➡️ [[11 BEZIEHUNGEN|Weiter zu Kapitel 11 – Beziehungen 1 zu n und n zu m]]

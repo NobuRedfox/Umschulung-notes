@@ -750,7 +750,5 @@ Wenn dadurch inkonsistente Daten entstehen würden:
 
 ⬅️ [[18 Normalformen|Zurück zu Kapitel 18 – Normalformen]]
 
-🏁 **Ende der SQL-Grundlagen**
-
-⬅️ [[01 SQL Grundlagen|Zurück zu Kapitel 01 – SQL Grundlagen]]
+➡️ [[20 Datenbankdesign|Weiter zu Kapitel 20 – Datenbankdesign]]
 

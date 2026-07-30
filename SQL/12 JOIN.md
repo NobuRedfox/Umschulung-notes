@@ -832,6 +832,6 @@ JOIN invoice_line il
 
 ## Navigation
 
-⬅️ [[11 Beziehungen 1 zu n und n zu m|Zurück zu Kapitel 11 – Beziehungen]]
+⬅️ [[11 BEZIEHUNGEN|Zurück zu Kapitel 11 – Beziehungen]]
 
 ➡️ [[13 Aggregatfunktionen|Weiter zu Kapitel 13 – Aggregatfunktionen]]
